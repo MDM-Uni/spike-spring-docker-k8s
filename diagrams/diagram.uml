@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="53.0" y="-38.5">com</node>
+    <node x="6809.5" y="-38.5">netscape</node>
+    <node x="6424.5" y="-38.5">toolbarButtonGraphics</node>
+    <node x="6216.5" y="-38.5">sun</node>
+    <node x="5987.0" y="-38.5">apple</node>
+    <node x="5701.5" y="-38.5">win32-x86</node>
+    <node x="5376.5" y="-38.5">groovyjarjarasm</node>
+    <node x="5174.0" y="-38.5">java</node>
+    <node x="4949.0" y="-38.5">javax</node>
+    <node x="4605.0" y="-38.5">groovyjarjarpicocli</node>
+    <node x="4385.0" y="-38.5">javafx</node>
+    <node x="4178.0" y="-38.5">net</node>
+    <node x="3932.0" y="-38.5">javassist</node>
+    <node x="3699.0" y="-38.5">images</node>
+    <node x="3467.0" y="-38.5">static</node>
+    <node x="3257.5" y="-38.5">org</node>
+    <node x="3062.0" y="-38.5">ch</node>
+    <node x="2786.0" y="-38.5">templates</node>
+    <node x="2571.5" y="-38.5">antlr</node>
+    <node x="2385.5" y="-38.5">aj</node>
+    <node x="2179.0" y="-38.5">jdk</node>
+    <node x="1904.5" y="-38.5">META-INF</node>
+    <node x="1660.5" y="-38.5">groovy</node>
+    <node x="1259.0" y="-38.5">groovyjarjarcommonscli</node>
+    <node x="934.5" y="-38.5">groovyjarjarantlr</node>
+    <node x="578.5" y="-38.5">mockito-extensions</node>
+    <node x="264.0" y="-38.5">win32-x86-64</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="0.14418405258645328" showDependencies="false" x="3541.9999999999995" y="-20.0" />
+  <SelectedNodes>
+    <node>antlr</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
