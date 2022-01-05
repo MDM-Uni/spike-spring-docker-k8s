@@ -1,0 +1,17 @@
+version: "3.7"
+services:
+  db:
+    image: postgres:12.2
+    restart: always
+    environment:
+      POSTGRES_DB: spring_docker
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: secret
+      PGDATA: /var/lib/postgresql/data
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    ports:
+      - "5431:5432"
+volumes:
+  db-data:
+  pgadmin-data:
