@@ -2,7 +2,7 @@ version: "3.7"
 services:
   db:
     image: postgres:12.2
-    restart: always
+    restart: on-failure
     environment:
       POSTGRES_DB: spring_docker
       POSTGRES_USER: admin
